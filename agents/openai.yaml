@@ -1,0 +1,4 @@
+interface:
+  display_name: "Academic Figure ImageGen"
+  short_description: "用视觉蓝图和 ImageGen 绘制可审计的学术示意图"
+  default_prompt: "Use $academic-figure-imagegen to turn this paper method into a publication-ready conceptual figure."
